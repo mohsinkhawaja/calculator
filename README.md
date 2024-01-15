@@ -1,6 +1,6 @@
 # calculator
 
-A new Calculator project.
+A new Calculator project un flutter.
 
 ## Getting Started
 
